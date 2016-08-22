@@ -1,0 +1,19 @@
+{
+  "name": "rethinkdb_examples",
+  "version": "1.0.0",
+  "description": "RethinkDB examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-jam/rethinkdb_examples.git"
+  },
+  "author": "Francesco Strazzullo (francesco.strazzullo86@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coding-jam/rethinkdb_examples/issues"
+  },
+  "homepage": "https://github.com/coding-jam/rethinkdb_examples#readme"
+}
