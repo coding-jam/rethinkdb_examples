@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/coding-jam/rethinkdb_examples/issues"
   },
-  "homepage": "https://github.com/coding-jam/rethinkdb_examples#readme"
+  "homepage": "https://github.com/coding-jam/rethinkdb_examples#readme",
+  "devDependencies": {
+    "rethinkdb": "2.3.2"
+  }
 }
